@@ -1,6 +1,6 @@
 ![scout logo](https://user-images.githubusercontent.com/46737279/89562085-4ccd9e00-d7ce-11ea-8e66-fa2c20785624.png)
 
-# Scout Roadmap
+# TeamPassword Roadmap
 
 This is the public product roadmap for [TeamPassword](https://teampassword.com), simple and secure password sharing for teams!. 
 
