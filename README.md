@@ -2,7 +2,7 @@
 
 # TeamPassword Roadmap
 
-This is the public product roadmap for [TeamPassword](https://teampassword.com), simple and secure password sharing for teams!. 
+This is the public product roadmap for [TeamPassword](https://teampassword.com), simple and secure password sharing for teams! 
 
 How this works:
 
