@@ -1,4 +1,4 @@
-![scout logo](https://user-images.githubusercontent.com/46737279/89560679-42aaa000-d7cc-11ea-8811-c342635a8fd2.png)
+![scout logo](https://user-images.githubusercontent.com/46737279/89562085-4ccd9e00-d7ce-11ea-8e66-fa2c20785624.png)
 
 # Scout Roadmap
 
